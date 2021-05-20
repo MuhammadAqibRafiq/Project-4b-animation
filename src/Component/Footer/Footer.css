@@ -1,0 +1,14 @@
+.footer{
+position: absolute;
+top: 597px;
+left: 450px;
+cursor: pointer;
+}
+.footer ul{
+    
+}
+
+.footer li{
+    display: inline;
+    margin-left: 60px;
+}

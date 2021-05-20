@@ -1,0 +1,14 @@
+.Card1{
+    background-color:rgb(174, 185, 163);
+    position: absolute;
+    top: 150px;
+    left: 290px;
+    max-width: 345px;
+}
+.Card2{
+    background-color:rgb(174, 185, 163);
+    position: absolute;
+    top: 150px;
+    left: 690px;
+    max-width: 345px;
+}
